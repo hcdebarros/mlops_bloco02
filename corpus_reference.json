@@ -1,0 +1,37 @@
+{
+  "n_images": 110,
+  "luminance_mean": {
+    "mean": 135.64,
+    "p05": 96.67,
+    "p50": 135.75,
+    "p95": 172.72
+  },
+  "contrast_rms": {
+    "mean": 53.77,
+    "p05": 28.42,
+    "p50": 54.83,
+    "p95": 77.44
+  },
+  "colorfulness": {
+    "mean": 42.51,
+    "p05": 16.35,
+    "p50": 38.49,
+    "p95": 95.26
+  },
+  "sharpness_lapvar": {
+    "mean": 2382.92,
+    "p05": 133.11,
+    "p50": 1463.4,
+    "p95": 8870.28
+  },
+  "is_blurry_rate": 0.04,
+  "colorfulness_class_counts": {
+    "pouco colorida": 40,
+    "medianamente colorida": 24,
+    "moderadamente colorida": 23,
+    "bastante colorida": 9,
+    "nada colorida": 5,
+    "extremamente colorida": 3,
+    "muito colorida": 6
+  }
+}

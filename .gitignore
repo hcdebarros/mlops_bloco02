@@ -1,0 +1,18 @@
+# Corpus de referência (110 fotos do repositório da aula — baixar de lá)
+corpus_beaches/
+
+# JSON por imagem (mesmo conteúdo de results.csv)
+features/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+image,width,height,luminance_mean,r_mean,g_mean,b_mean,contrast_rms,colorfulness,colorfulness_class,sharpness_lapvar,is_blurry,vs_corpus_luminance_mean,vs_corpus_contrast_rms,vs_corpus_colorfulness,vs_corpus_sharpness_lapvar
+cesar-fachada-1.webp,1024,576,92.67,107.8,86.95,82.52,55.24,61.76,bastante colorida,1892.12,False,baixo,ok,ok,ok
+cesar-school-fachada-predio-brum.webp,800,533,126.17,144.72,119.02,114.36,68.69,57.74,medianamente colorida,839.85,False,ok,ok,ok,ok
+thumb-podcast-cesar-school-1.webp,1400,1400,165.41,254.72,144.39,39.65,37.89,140.53,extremamente colorida,46.02,True,ok,ok,alto,baixo
